@@ -1,0 +1,15 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE       |FECHA NACIMIENTO|CORREO	      |CONTRASEÑA
+
+|jere	      |1995/07/16      |mjm@gmial.com  |123456
+
+|Marian J |1996/05/16      |marianj@gmial.com|123456
+
+|Juancho L|1994/01/16      |juanchol@gmial.com|123456
+
+
+|CORREO	      	 |CONTRASEÑA
+
+|mjm@dominio.com|123456
